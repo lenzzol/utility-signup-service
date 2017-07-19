@@ -1,0 +1,7 @@
+[Oo]bj/
+[Bb]in/
+[Ll]in/
+.DS_Store
+.vscode/
+data/
+Assets/.DS_Store
